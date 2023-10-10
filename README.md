@@ -35,6 +35,7 @@ Other Skills: Error Solving , Leadership , Teamwork
 
 
 ACADEMIC PROJECTS-
+
 1)Cancer Risk Assessment
 
 Tools: Flask , HTML , CSS , MYSQL , Machine Learning
@@ -64,7 +65,7 @@ Simple chat system created to order food from shop as home delivery.
 
 6) My AI Portfolio-
  
-its include the stock price prediction, face detection, spam detection, image to text converter, wheather forecasting using api all this is done with flask framework. 
+Its include the stock price prediction, face detection, spam detection, image to text converter, wheather forecasting using api all this is done with flask framework. 
 
 
 CERTIFICATIONS:
